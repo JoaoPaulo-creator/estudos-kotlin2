@@ -1,4 +1,4 @@
-package forloops
+package loops
 
 fun eatACake() = println("Eat a Cake")
 fun bakeACake() = println("Bake a Cake")
